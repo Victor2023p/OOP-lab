@@ -1,0 +1,3 @@
+﻿  OOP-lab_4.cpp
+C:\Users\HP\source\repos\OOP-lab_4\OOP-lab_4\OOP-lab_4.cpp(111,21): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1251)
+  OOP-lab_4.vcxproj -> C:\Users\HP\source\repos\OOP-lab_4\x64\Debug\OOP-lab_4.exe
